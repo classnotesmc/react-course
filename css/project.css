@@ -1,0 +1,15 @@
+#container {
+  padding: 1vw;
+}
+
+.bigfont {
+  font-size: 2em;
+}
+
+.ingredients thead td {
+  fonnt-weight: bold;
+}
+
+.ingredients tbody td {
+  font-size: 1em;
+}
